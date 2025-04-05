@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "ingredient": ["minecraft:netherite_axe"],
+  "result": {
+    "id": "minecraft:netherite_ingot"
+  },
+  "experience": 1,
+  "cookingtime": 200
+}
