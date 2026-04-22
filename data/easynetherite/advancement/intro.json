@@ -1,0 +1,1 @@
+{"display":{"icon":{"id":"minecraft:netherite_ingot"},"title":"Easy Netherite","description":"Datapack Loaded!","announce_to_chat":false,"show_toast":false,"hidden":true},"criteria":{"impossible":{"trigger":"minecraft:impossible"}},"rewards":{"function":"easynetherite:intro"}}
