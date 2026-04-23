@@ -101,14 +101,15 @@ These recipes were removed to improve balance and avoid unrealistic resource con
 
 If you want to show the system visually, add screenshots here:
 
-```md
+
 <p align="center">
   <img src="https://yassinemagri.netlify.app/imgs/easy-netherite/preview.png" alt="Easy Netherite Preview" style="max-width:100%; height:auto;">
 </p>
+
 <p align="center">
   <img src="https://yassinemagri.netlify.app/imgs/easy-netherite/drop_rates.png" alt="Easy Netherite Drop Rates" style="max-width:100%; height:auto;">
 </p>
-```
+
 
 ---
 
