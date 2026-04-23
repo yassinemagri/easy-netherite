@@ -2,7 +2,7 @@
 
 **A balanced Minecraft Java datapack that makes Netherite progression easier, faster, and more rewarding.**
 
-![Easy Netherite Banner](assets/banner.png)
+![Easy Netherite Banner](./assets/banner.png)
 
 ---
 
@@ -100,8 +100,8 @@ These recipes were removed to improve balance and avoid unrealistic resource con
 If you want to show the system visually, add screenshots here:
 
 ```md
-![Gameplay Preview](assets/preview.png)
-![Drop Rates](assets/drop-rates.png)
+![Gameplay Preview](./assets/preview.png)
+![Drop Rates](./assets/drop-rates.png)
 ```
 
 ---
@@ -184,7 +184,7 @@ Follow my work and see more projects:
 
 If you like Easy Netherite and want to support future updates:
 
--  PayPal: https://paypal.me/yourlink  
+-  PayPal: https://paypal.me/enisssaycula 
 
 Every support means a lot and helps keep the project alive ❤️
 
