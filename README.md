@@ -2,7 +2,7 @@
 
 **A balanced Minecraft Java datapack that makes Netherite progression easier, faster, and more rewarding.**
 
-![Easy Netherite Banner](./assets/banner.png)
+![Easy Netherite Banner](https://yassinemagri.netlify.app/imgs/easy-netherite/drop_rates.png)
 
 <p align="center">
   <img src="https://yassinemagri.netlify.app/imgs/easy-netherite/drop_rates.png">
