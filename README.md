@@ -2,8 +2,9 @@
 
 **A balanced Minecraft Java datapack that makes Netherite progression easier, faster, and more rewarding.**
 
-![Easy Netherite Banner](https://yassinemagri.netlify.app/imgs/easy-netherite/banner.png)
-
+<p align="center">
+  <img src="https://yassinemagri.netlify.app/imgs/easy-netherite/banner.png" alt="Easy Netherite Banner" style="max-width:100%; height:auto;">
+</p>
 
 ---
 
@@ -101,8 +102,12 @@ These recipes were removed to improve balance and avoid unrealistic resource con
 If you want to show the system visually, add screenshots here:
 
 ```md
-![Gameplay Preview](https://yassinemagri.netlify.app/imgs/easy-netherite/preview.png)
-![Drop Rates](https://yassinemagri.netlify.app/imgs/easy-netherite/drop_rates.png)
+<p align="center">
+  <img src="https://yassinemagri.netlify.app/imgs/easy-netherite/preview.png" alt="Easy Netherite Preview" style="max-width:100%; height:auto;">
+</p>
+<p align="center">
+  <img src="https://yassinemagri.netlify.app/imgs/easy-netherite/drop_rates.png" alt="Easy Netherite Drop Rates" style="max-width:100%; height:auto;">
+</p>
 ```
 
 ---
