@@ -172,6 +172,20 @@ Created for Minecraft players who want a cleaner, more balanced Netherite experi
 
 ---
 
-## Support
+## Content & Updates
 
-If you enjoy the datapack, consider leaving feedback, a star, or a comment on the project page.
+Follow my work and see more projects:
+
+- YouTube: https://youtube.com/@enissaycula
+
+---
+
+##  Support the Project
+
+If you like Easy Netherite and want to support future updates:
+
+-  PayPal: https://paypal.me/yourlink  
+
+Every support means a lot and helps keep the project alive ❤️
+
+---
