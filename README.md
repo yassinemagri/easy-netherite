@@ -5,7 +5,7 @@
 ![Easy Netherite Banner](./assets/banner.png)
 
 <p align="center">
-  <img src="./assets/drop_rates.png">
+  <img src="https://yassinemagri.netlify.app/imgs/easy-netherite/drop_rates.png">
 </p>
 
 ---
