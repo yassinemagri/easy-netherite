@@ -76,7 +76,7 @@ These recipes were removed to improve balance and avoid unrealistic resource con
    ```mcfunction
    /datapack list
    ```
-
+   
 ---
 
 ## Compatibility
